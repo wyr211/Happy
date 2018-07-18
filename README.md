@@ -1,4 +1,5 @@
-# Happy Project Introduction
+# Happy Project 
+## Introduction
 The World Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network which contains rankings of national happiness and analysis of the data from various perspectives.&mdash; [Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report#cite_note-1)
 
 The project is inspired by this report. During exploring the original dataset of the Happiness Report, we found that Latino countries are outstandingly happier comparing with other countries with similar level of wealthness.
