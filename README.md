@@ -3,10 +3,6 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 
 The project is inspired by this report. During exploring the original dataset of the Happiness Report, we found that Latino countries are outstandingly happier comparing with other countries with similar level of wealthness.
 
-<div>
-    <a href="https://plot.ly/~wyr211/22/?share_key=wuq0PX2WqUxxQFmMjSzjOP" target="_blank" title="plot from API (10)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/22.png?share_key=wuq0PX2WqUxxQFmMjSzjOP" alt="plot from API (10)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="wyr211:22" sharekey-plotly="wuq0PX2WqUxxQFmMjSzjOP" src="https://plot.ly/embed.js" async></script>
-</div>
 ttieopa
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~wyr211/22.embed"></iframe>
 
