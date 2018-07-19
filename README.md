@@ -12,7 +12,7 @@ The project is inspired by this report. During exploring the original dataset of
 
 So we want to give this unusual happiness some possible explanations. First we tried the theory of religion. &madash; [The Washington Post](https://www.washingtonpost.com/national/religion/religion-is-a-sure-route-to-true-happiness/2014/01/23/f6522120-8452-11e3-bbe5-6a2a3141e3a9_story.html?noredirect=on&utm_term=.3dfd078dc994)
 
-Can religion boost Latin people's feeling of happiness? As per our dataset, we don't find a clear relation between happiness and overall region ratio. Though Latino countries do have higher ratio of religous people, religions might not be the main source of their happiness. 
+Can religion boost Latin people's feeling of happiness? We incorperated world religious population dataset to world happiness report dataset. As per our combined dataset, we don't find a clear relation between happiness and overall region ratio. Though Latino countries do have higher ratio of religous people, religions might not be the main source of their happiness. 
 
 <div>
     <a href="https://plot.ly/~wyr211/24/?share_key=EArZZ8EG5VtvLYaXbcbgP2" target="_blank" title="plot from API (11)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/24.png?share_key=EArZZ8EG5VtvLYaXbcbgP2" alt="plot from API (11)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
