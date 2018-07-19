@@ -35,5 +35,6 @@ This theory holds to our data.
 
 # Index of Repository
 [Code of all the graphs](http://)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
+
 [Data](http://)<br>*Dataset used for analysis and data sources and variable definitions*
 
