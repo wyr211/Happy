@@ -31,13 +31,18 @@ The rest of the project focuses on giving this unusual happiness some possible e
 # Index of Repository
 [Code of all the graphs](http://)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
 
-[Data](http://)<br>*Dataset used for analysis and data sources and variable definitions*
+|Data|
+|---|
+|[Original_2017_full](https://github.com/wyr211/Happy/blob/master/data/Original_2017_full.csv)<br>*The original dataset of World Happiness Report which contains data from 2008 to 2017.*|
+|[Original_2017_region](https://github.com/wyr211/Happy/blob/master/data/Original_2017_region.csv)<br>*Region list used by World Happiness Report*.|
+|[relig_iso](https://github.com/wyr211/Happy/blob/master/data/relig_iso.csv)<br>*2016 Globle religion population percentage data.*|
+|[DataSourcesAndVariableDef](https://github.com/wyr211/Happy/blob/master/data/DataSourcesAndVariableDef.pdf)<br>*Data sources and variable definitions by World Happiness Report.*|
 
 |Visualization|
 |---|
 |[Heatmap_of_world_happiness](https://github.com/wyr211/Happy/blob/master/visualization/Heatmap_of_world_happiness.md)<br>*The distribution of happiness level around the world 2016.*|
 |[Happiness_trend](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_trend.md)<br>*Happiness scores from year 2008 to 2017*.|
-|[Happiness_GDP.](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_GDP.md)<br>*Scatter plot to show the relationship between happiness scores and GDP per capita among regions.*|
+|[Happiness_GDP](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_GDP.md)<br>*Scatter plot to show the relationship between happiness scores and GDP per capita among regions.*|
 |[Happiness_religion](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Religion.md)<br>*Scatter plot to show the relationship between happiness scores and religion percentage among regions.*|
 |[Happiness_SocialSupport](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_SocialSupport.md)<br>*Scatter plot to show the relationship between happiness scores and social support among regions.*|
 |[Happiness_Gene](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Gene.md)<br>*Boxplot to show the difference on happiness level between two types of gene groups.*|
