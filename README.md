@@ -8,9 +8,10 @@ When we look at happiness score by country, we found that people in North Americ
 
 
 <div>
-    <a href="https://plot.ly/~arielyeung/117/happiness-by-country-2016/" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/38.png?share_key=oloX1gl5Epo2xy6y4x9Oq3" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~wyr211/58/?share_key=hMo4eCbiaWI3OTqJj7NEgM" target="_blank" title="world-heatmap_2" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/58.png?share_key=hMo4eCbiaWI3OTqJj7NEgM" alt="world-heatmap_2" style="max-width: 100%;width: 600px;"  width="100%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     
 </div>
+
 
 
 
