@@ -8,7 +8,7 @@ When we look at happiness score by country, we found that people in North Americ
 
 
 <div>
-    <a href="https://plot.ly/~wyr211/38/?share_key=oloX1gl5Epo2xy6y4x9Oq3" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/38.png?share_key=oloX1gl5Epo2xy6y4x9Oq3" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~arielyeung/117/happiness-by-country-2016/" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/38.png?share_key=oloX1gl5Epo2xy6y4x9Oq3" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     
 </div>
 
@@ -33,14 +33,5 @@ The rest of the project focuses on giving this unusual happiness some possible e
 [Data](http://)<br>*Dataset used for analysis and data sources and variable definitions*
 
 # Inspiration
-[World happiness report](https://en.wikipedia.org/wiki/World_Happiness_Report#cite_note-1)
-
-[Religion is a sure route to true happiness.](https://www.washingtonpost.com/national/religion/religion-is-a-sure-route-to-true-happiness/2014/01/23/f6522120-8452-11e3-bbe5-6a2a3141e3a9_story.html?noredirect=on&utm_term=.3dfd078dc994)
-
-[The secret of happiness: families, friends and your environment.](https://www.independent.co.uk/life-style/health-and-families/health-news/the-secret-of-happiness-family-friends-and-your-environment-2053053.html)
-
-[Genes Hold The Key To How Happy We Are, Scientists Say](https://www.sciencedaily.com/releases/2008/03/080304103308.htm)
-
-
-
+[World happiness report](http://worldhappiness.report)
 
