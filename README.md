@@ -35,10 +35,16 @@ The rest of the project focuses on giving this unusual happiness some possible e
 
 # Inspiration
 [World happiness report](http://worldhappiness.report)
+
 [Why Are Latinos More Likely to Be Happy?](https://www.huffingtonpost.com/daniel-cubias/why-are-latinos-more-like_b_9012348.html)
+
 [Venezuela’s not-so-happy new year](http://thehill.com/opinion/international/367204-venezuelas-not-so-happy-new-year)
+
 [Haiti: a nation sadly familiar with hurricanes and earthquakes](https://www.cnn.com/2016/10/04/world/haiti-disasters/index.html)
+
 [THE SECRET OF HAPPINESS: FAMILY, FRIENDS AND YOUR ENVIRONMENT](https://www.independent.co.uk/life-style/health-and-families/health-news/the-secret-of-happiness-family-friends-and-your-environment-2053053.html)
+
 [Religion is a sure route to true happiness](https://www.washingtonpost.com/national/religion/religion-is-a-sure-route-to-true-happiness/2014/01/23/f6522120-8452-11e3-bbe5-6a2a3141e3a9_story.html?noredirect=on&utm_term=.0d916b839370)
+
 [Genes Hold The Key To How Happy We Are, Scientists Say](https://www.sciencedaily.com/releases/2008/03/080304103308.htm)
 
