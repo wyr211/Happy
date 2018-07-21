@@ -48,6 +48,7 @@ The rest of the project focuses on giving this unusual happiness some possible e
 |[Happiness_Gene](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Gene.md)<br>*Boxplot to show the difference on happiness level between two types of gene groups.*|
 |[Happiness_LifeExpectancy](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_LifeExpectancy.md)<br>*Scatter plot to show the relationship between happiness scores and life expectancy among regions.*|
 |[Happiness_Freedom](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Freedom.md)<br>*Scatter plot to show the relationship between happiness scores and freedom level among regions.*|
+|[GDP_religion](https://github.com/wyr211/Happy/blob/master/visualization/GDP_religion.md)<br>*Scatter plot to show the relationship between gdp per capita and religion percentage among regions.*|
 
 
 # Inspiration
