@@ -27,8 +27,11 @@ When exploring the relationship between happiness and GDP per capita, we found t
 The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects. We tried the theory of religion, social support and generic gift by integrating external datasets to do further analysis.
 
 
+## Next Step
 
-# Index of Repository
+Regression anaylsis by using the time series data to find out reasons for happiness.
+
+## Index of Repository
 [Code of all the graphs](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall_Final.ipynb)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
 
 |Data|
@@ -50,7 +53,7 @@ The rest of the project focuses on giving this unusual happiness some possible e
 |[Happiness_Freedom](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Freedom.md)<br>*Scatter plot to show the relationship between happiness scores and freedom level among regions.*|
 
 
-# Inspiration
+## Inspiration
 [World happiness report](http://worldhappiness.report)
 
 [Why Are Latinos More Likely to Be Happy?](https://www.huffingtonpost.com/daniel-cubias/why-are-latinos-more-like_b_9012348.html)
