@@ -3,9 +3,10 @@ But Latin countries are seemingly an exeption. Their GDP levels are not that hig
 Also the countries with similar GDP levels as Latin countries are mostly less happy. 
 
 <div>
-    <a href="https://plot.ly/~wyr211/116/?share_key=DGNzPtK485jYMAMVWviX0R" target="_blank" title="plot from API (2)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/116.png?share_key=DGNzPtK485jYMAMVWviX0R" alt="plot from API (2)" style="max-width: 100%;width: 600px;"  width="100%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~wyr211/118/?share_key=lpb1fdT1PnYgcoWMglggkj" target="_blank" title="plot from API (3)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/118.png?share_key=lpb1fdT1PnYgcoWMglggkj" alt="plot from API (3)" style="max-width: 100%;width: 600px;"  width="100%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     
 </div>
+
 
 
 
