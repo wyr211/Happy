@@ -33,7 +33,7 @@ The rest of the project focuses on giving this unusual happiness some possible e
 Regression anaylsis by using the time series data to find out reasons for happiness.
 
 ## Index of Repository
-[Code of all the graphs](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall_Final.ipynb)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
+[Code of all the graphs](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall.ipynb)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
 
 |Data|
 |---|
