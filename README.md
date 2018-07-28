@@ -1,6 +1,7 @@
-# The happiest place on earth 
+# The happiest place on earth 2016
+#### Yiru Wang, Ariel Yeung
 ## Introduction
-The World Happiness Report is a landmark survey by the United Nations Sustainable Development Solutions Network about the state of global happiness.Each year they survey people from more than 150 countries and ask questions about their happiness and other aspects in their lives such as social support, freedom, etc. The data published contains country level survey data,  as well as some data related to country performance such as GDP and life expectancy. 
+The World Happiness Report is a landmark survey by the United Nations Sustainable Development Solutions Network about the state of global happiness. Each year they survey people from more than 150 countries and ask questions about their happiness and other aspects in their lives such as social support, freedom, etc. The data published contains country level survey data,  as well as some data related to country performance such as GDP and life expectancy. 
 
 The project is inspired by this report and we would like to look at what countries are happier and what makes people in a particular region happier than others through visualization. The dataset used in this project and the definition of variables can be found under 'Data' of this page.
 
@@ -33,7 +34,7 @@ The rest of the project focuses on giving this unusual happiness some possible e
 
 ## Next Step
 
-Regression anaylsis by using the time series data to find out reasons for happiness.
+Regression anaylsis by using panel data to find out the reasons for happiness.
 
 ## Index of Repository
 [Code of all the graphs](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall.ipynb)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
