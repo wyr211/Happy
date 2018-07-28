@@ -8,9 +8,10 @@ When we look at happiness score by country, we found that people in North Americ
 
 
 <div>
-    <a href="https://plot.ly/~wyr211/58/?share_key=hMo4eCbiaWI3OTqJj7NEgM" target="_blank" title="world-heatmap_2" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/58.png?share_key=hMo4eCbiaWI3OTqJj7NEgM" alt="world-heatmap_2" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~wyr211/148/?share_key=6OrhIQKemxEPotgdIr0ekt" target="_blank" title="plot from API (18)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/148.png?share_key=6OrhIQKemxEPotgdIr0ekt" alt="plot from API (18)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     
 </div>
+
 
 
 
@@ -19,9 +20,10 @@ When exploring the relationship between happiness and GDP per capita, we found t
 
 
 <div>
-    <a href="https://plot.ly/~wyr211/120/?share_key=pTs604WpG3EeCiwBCRayQW" target="_blank" title="plot from API (4)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/120.png?share_key=pTs604WpG3EeCiwBCRayQW" alt="plot from API (4)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    
+    <a href="https://plot.ly/~wyr211/148/?share_key=6OrhIQKemxEPotgdIr0ekt" target="_blank" title="plot from API (18)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/148.png?share_key=6OrhIQKemxEPotgdIr0ekt" alt="plot from API (18)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="wyr211:148" sharekey-plotly="6OrhIQKemxEPotgdIr0ekt" src="https://plot.ly/embed.js" async></script>
 </div>
+
 
 
 
