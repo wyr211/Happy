@@ -21,9 +21,10 @@ When exploring the relationship between happiness and GDP per capita, we found t
 
 
 <div>
-    <a href="https://plot.ly/~wyr211/150/?share_key=ZQ3iUcUeQeFQv2vkQXPZOK" target="_blank" title="plot from API (19)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/150.png?share_key=ZQ3iUcUeQeFQv2vkQXPZOK" alt="plot from API (19)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~wyr211/158/?share_key=VDRqgsmwW7REIQPazK9WbY" target="_blank" title="plot from API (24)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/158.png?share_key=VDRqgsmwW7REIQPazK9WbY" alt="plot from API (24)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     
 </div>
+
 
 
 
