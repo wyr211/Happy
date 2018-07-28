@@ -38,7 +38,7 @@ Regression anaylsis by using panel data would be helpful to find out the reasons
 
 
 ## Index of Repository
-[Analysis](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall.ipynb)<br> *Codes of our analysis, including world map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*|
+[Analysis](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall.ipynb)<br> *Codes of our analysis, including world map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
 
 |Data|
 |---|
@@ -49,7 +49,7 @@ Regression anaylsis by using panel data would be helpful to find out the reasons
 
 |Visualization|
 |---|
-|[Heatmap_of_world_happiness](https://github.com/wyr211/Happy/blob/master/visualization/Heatmap_of_world_happiness.md)<br>*The distribution of happiness level around the world 2016*|
+|[Heatmap_of_world_happiness](https://github.com/wyr211/Happy/blob/master/visualization/Heatmap_of_world_happiness.md)<br>*Distribution of happiness level around the world 2016*|
 |[Happiness_trend](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_trend.md)<br>*Happiness scores from year 2008 to 2017*|
 |[Happiness_GDP](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_GDP.md)<br>*Scatter plot to show the relationship between happiness scores and GDP per capita among regions*|
 |[Happiness_religion](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Religion.md)<br>*Scatter plot to show the relationship between happiness scores and religion percentage among regions*|
