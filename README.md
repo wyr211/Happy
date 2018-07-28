@@ -29,12 +29,13 @@ When exploring the relationship between happiness and GDP per capita, we found t
 
 
 
-The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects. We tried the theory of religion, social support and generic gift by integrating external datasets to do further analysis.
+The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects. We tried the theory of religion, social support and genetic gift by integrating external datasets to do further analysis.
 
 
-## Next Step
+## Future Research Direction
 
-Regression anaylsis by using panel data to find out the reasons for happiness.
+Regression anaylsis by using panel data would be helpful to find out the reasons for happiness while controling for other variables.
+
 
 ## Index of Repository
 [Code of all the graphs](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiness_Overall.ipynb)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
