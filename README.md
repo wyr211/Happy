@@ -29,34 +29,36 @@ When exploring the relationship between happiness and GDP per capita, we found t
 
 
 
-The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects. We tried the theory of religion, social support and generic gift by integrating external datasets to do further analysis.
+The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects. We tried the theory of religion, social support and genetic gift by integrating external datasets to do further analysis.
 
 
-## Next Step
+## Future Research Direction
 
-Regression anaylsis by using panel data to find out the reasons for happiness.
+Regression anaylsis by using panel data would be helpful to find out the reasons for happiness while controling for other variables.
+
 
 ## Index of Repository
-[Code of all the graphs](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/World_Happiest_Places.ipynb)<br>*World map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
+[Analysis](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/World_Happiest_Places.ipynb)<br> *Codes of our analysis, including world map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
+
 
 |Data|
 |---|
-|[Original_2017_full](https://github.com/wyr211/Happy/blob/master/data/Original_2017_full.csv)<br>*The original dataset of World Happiness Report which contains data from 2008 to 2017.*|
-|[Original_2017_region](https://github.com/wyr211/Happy/blob/master/data/Original_2017_region.csv)<br>*Region list used by World Happiness Report*.|
-|[relig_iso](https://github.com/wyr211/Happy/blob/master/data/relig_iso.csv)<br>*2016 Globle religion population percentage data.*|
-|[DataSourcesAndVariableDef](https://github.com/wyr211/Happy/blob/master/data/DataSourcesAndVariableDef.pdf)<br>*Data sources and variable definitions by World Happiness Report.*|
+|[Original_2017_full](https://github.com/wyr211/Happy/blob/master/data/Original_2017_full.csv)<br>*The original dataset of World Happiness Report which contains data from 2008 to 2017*|
+|[Original_2017_region](https://github.com/wyr211/Happy/blob/master/data/Original_2017_region.csv)<br>*Region list used by World Happiness Report*|
+|[relig_iso](https://github.com/wyr211/Happy/blob/master/data/relig_iso.csv)<br>*2016 Globle religion population percentage data*|
+|[DataSourcesAndVariableDef](https://github.com/wyr211/Happy/blob/master/data/DataSourcesAndVariableDef.pdf)<br>*Data sources and variable definitions by World Happiness Report*|
 
 |Visualization|
 |---|
-|[Heatmap_of_world_happiness](https://github.com/wyr211/Happy/blob/master/visualization/Heatmap_of_world_happiness.md)<br>*The distribution of happiness level around the world 2016.*|
-|[Happiness_trend](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_trend.md)<br>*Happiness scores from year 2008 to 2017*.|
-|[Happiness_GDP](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_GDP.md)<br>*Scatter plot to show the relationship between happiness scores and GDP per capita among regions.*|
-|[Happiness_religion](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Religion.md)<br>*Scatter plot to show the relationship between happiness scores and religion percentage among regions.*|
-|[Happiness_SocialSupport](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_SocialSupport.md)<br>*Scatter plot to show the relationship between happiness scores and social support among regions.*|
-|[Happiness_Gene](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Gene.md)<br>*Boxplot to show the difference on happiness level between two types of gene groups.*|
-|[Happiness_LifeExpectancy](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_LifeExpectancy.md)<br>*Scatter plot to show the relationship between happiness scores and life expectancy among regions.*|
-|[Happiness_Freedom](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Freedom.md)<br>*Scatter plot to show the relationship between happiness scores and freedom level among regions.*|
-|[GDP_religion](https://github.com/wyr211/Happy/blob/master/visualization/GDP_religion.md)<br>*Scatter plot to show the relationship between GDP per capita and religion percentage among regions.*|
+|[Heatmap_of_world_happiness](https://github.com/wyr211/Happy/blob/master/visualization/Heatmap_of_world_happiness.md)<br>*Distribution of happiness level around the world 2016*|
+|[Happiness_trend](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_trend.md)<br>*Happiness scores from year 2008 to 2017*|
+|[Happiness_GDP](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_GDP.md)<br>*Scatter plot to show the relationship between happiness scores and GDP per capita among regions*|
+|[Happiness_religion](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Religion.md)<br>*Scatter plot to show the relationship between happiness scores and religion percentage among regions*|
+|[Happiness_SocialSupport](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_SocialSupport.md)<br>*Scatter plot to show the relationship between happiness scores and social support among regions*|
+|[Happiness_Gene](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Gene.md)<br>*Boxplot to show the difference on happiness level between two types of gene groups*|
+|[Happiness_LifeExpectancy](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_LifeExpectancy.md)<br>*Scatter plot to show the relationship between happiness scores and life expectancy among regions*|
+|[Happiness_Freedom](https://github.com/wyr211/Happy/blob/master/visualization/Happiness_Freedom.md)<br>*Scatter plot to show the relationship between happiness scores and freedom level among regions*|
+|[GDP_religion](https://github.com/wyr211/Happy/blob/master/visualization/GDP_religion.md)<br>*Scatter plot to show the relationship between GDP per capita and religion percentage among regions*|
 
 
 ## Inspiration
