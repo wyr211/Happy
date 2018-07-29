@@ -39,7 +39,7 @@ Regression anaylsis by using panel data would be helpful to find out the reasons
 
 
 ## Index of Repository
-[Analysis](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/World_Happiest_Places.ipynb)<br> *Codes of our analysis, including world map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
+[Analysis](https://nbviewer.jupyter.org/github/wyr211/Happy/blob/master/Happiest_Places_OnEarth.ipynb)<br> *Codes of our analysis, including world map and line chart of overall happiness level and trend, scatter plots and box plot to show relations between variables*
 
 
 |Data|
