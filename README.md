@@ -3,7 +3,7 @@
 ## Introduction
 The World Happiness Report is a landmark survey by the United Nations Sustainable Development Solutions Network about the state of global happiness. Each year they survey people from more than 150 countries and ask questions about their happiness and other aspects in their lives such as social support, freedom, etc. The data published contains country level survey data,  as well as some data related to country performance such as GDP and life expectancy. 
 
-The project is inspired by this report and we would like to look at what countries are happier and what makes people in a particular region happier than others through visualization. The dataset used in this project and the definition of variables can be found under 'Data' of this page.
+The project is inspired by this report and we would like to look at what countries are happier and what makes people in a particular region happier than others through visualization of the 2016 data. The dataset used in this project and the definition of variables can be found under 'Data' of this page.
 
 When we look at happiness score by country, we found that people in North America, Australia, New Zealand, Western Europe are the happiest, followed by Latin America. People in Africa have the lowest happiness score in general.
 
