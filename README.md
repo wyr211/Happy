@@ -8,26 +8,14 @@ The project is inspired by this report and we would like to look at what countri
 When we look at happiness score by country, we found that people in North America, Australia, New Zealand, Western Europe are the happiest, followed by Latin America. People in Africa have the lowest happiness score in general.
 
 
-<div>
-    <a href="https://plot.ly/~wyr211/148/?share_key=6OrhIQKemxEPotgdIr0ekt" target="_blank" title="plot from API (18)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/148.png?share_key=6OrhIQKemxEPotgdIr0ekt" alt="plot from API (18)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    
-</div>
-
-
+![alt text](https://github.com/wyr211/Happy/blob/master/Visualization/HappinessByCountry_Heatmap.png)
 
 
 
 When exploring the relationship between happiness and GDP per capita, we found that Latin Americans are outstandingly happier comparing with other countries with similar level of wealthness.
 
 
-<div>
-    <a href="https://plot.ly/~wyr211/158/?share_key=VDRqgsmwW7REIQPazK9WbY" target="_blank" title="plot from API (24)" style="display: block; text-align: center;"><img src="https://plot.ly/~wyr211/158.png?share_key=VDRqgsmwW7REIQPazK9WbY" alt="plot from API (24)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    
-</div>
-
-
-
-
+![alt text](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_GDP_ScatterPlot.png)
 
 
 The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects. We tried the theory of religion, social support and genetic gift by integrating external datasets to do further analysis.
